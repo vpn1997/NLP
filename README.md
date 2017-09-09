@@ -1,2 +1,1 @@
-# NLP
-some common NLP techniques
+phuck off
