@@ -10,10 +10,11 @@ from textblob import TextBlob
 
 
 # consumer key, consumer secret, access token, access secret.
-ckey = "WIbLRlyDVrgDMkA5o0J14x8m1"
-csecret = "Z3VEPA8eqWHPoFUgsz0FjzgyLEbGcOVbP3qdDPegOby8ujEMyS"
-atoken = "832586560319037440-0B6pZYqk7sKrjOlDKkWbWZe4yztnJiD"
-asecret = "mOaa8Z8pHjyvGlHct5wxcsEfkPxjegFzwFAeCH0dkDrt4"
+ckey = "WIbLRlyDVrgDMkA5ocJ14y8m0" #Fake
+csecret = "Z3VEPA8eqWHPoFdgsz0FjzgyLEbGcOVbP3qdDPegOby8ujEMyS" #fake
+atoken = "83258656031903sfds40-0B6pZYqk7sKrjOlDKkWbWZe4yztnJiD"  #fake
+asecret = "mOaa8Z8pHjyvGlHcdds5wxcsEfkPxjegFzwFAeCH0dkDrt4" #fake
+ # create a dummy twitter app andget your own key,secret,token etc, all above are fake.
 
 
 class listener(StreamListener):
